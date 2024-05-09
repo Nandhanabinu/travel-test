@@ -1,0 +1,234 @@
+/* Importing Google font - Open Sans */
+
+
+/* @media (max-width: 950px) {
+    .navbar :is(.hamburger-btn, .close-btn) {
+        display: block;
+    }
+
+    .navbar {
+        padding: 15px 0;
+    }
+
+    .navbar .logo img {
+        display: none;
+    }
+
+    .navbar .logo h2 {
+        font-size: 1.4rem;
+    }
+
+    .navbar .links {
+        position: fixed;
+        top: 0;
+        z-index: 10;
+        left: -100%;
+        display: block;
+        height: 100vh;
+        width: 100%;
+        padding-top: 60px;
+        text-align: center;
+        background: #fff;
+        transition: 0.2s ease;
+    }
+
+    .navbar .links.show-menu {
+        left: 0;
+    }
+
+    .navbar .links a {
+        display: inline-flex;
+        margin: 20px 0;
+        font-size: 1.2rem;
+        color: #000;
+    }
+
+    .navbar .links a:hover {
+        color: #00BCD4;
+    }
+
+    .navbar .login-btn {
+        font-size: 0.9rem;
+        padding: 7px 10px;
+    }
+}
+
+@media (max-width: 760px) {
+    .form-popup {
+        width: 95%;
+    }
+
+    .form-box .form-details {
+        display: none;
+    }
+
+    .form-box .form-content {
+        padding: 30px 20px;
+    }
+} */
+/* styles.css */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0e0d0d;
+  }
+  
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .form-popup {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pulsar-Planet.gif/1200px-Pulsar-Planet.gif);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 600px;
+    margin-left: 440px;
+   margin-top: 150px;
+  
+
+  }
+  
+
+  .fw-bolder{
+    color: #084d5f;
+  }
+h2 {
+    margin-bottom: 20px;
+    color: #084d5f;
+    margin-left: 180px;
+    
+  }
+  
+  .input-field {
+    margin-bottom: 20px;
+ 
+   
+  }
+  
+  
+  .input-field label {
+    display: block;
+    margin-bottom: 5px;
+    color: #146472;
+  }
+  
+  .forgot-pass-link {
+    display: block;
+    color: #228ca7;
+    margin-bottom: 20px;
+    text-decoration: none;
+  }
+  
+  .forgot-pass-link:hover {
+    text-decoration: underline;
+  }
+  
+  .bottom-link {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  .bottom-link a {
+    color: #0b8093;
+    text-decoration: none;
+  }
+  
+  .bottom-link a:hover {
+    text-decoration: underline;
+  }
+  .loginlast{
+    margin-left: 230px;
+  
+  }
+  .forgot-pass-link{
+    margin-top: 10px;
+    margin-left: 200px;
+  }
+  .input-field .form-control {
+    border: 2px solid rgb(12, 124, 108);
+    background-color: transparent; /* Remove the background color */
+    width: 400px;
+  }
+  .col-10{
+    width: 100%;
+    height: 600px;
+   
+   
+  }
+  .cos{
+    
+    width: 100%;
+    height: 800px;
+    background-image: url(https://i.gifer.com/81mz.gif);
+  }
+  .helloo{
+    margin-top: 100px;
+    margin-left: 100px;
+    background: -webkit-linear-gradient(rgb(18, 198, 93), #316b4d,#3c4250);
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .col-2{
+    width: 100%;
+    height: 600px;
+    background-color: #0e0d0d;
+  }
+  
+  .dropdown{
+    width: 100%;
+    height: 150px;
+  }
+  .secondary{
+    width: 210px;
+    height: auto;
+    margin-left: 18px;
+  }
+  .messages{
+    color: #4b4e4f;
+    
+  }
+  .cosmc{
+    margin-left: 40px;
+    background: -webkit-linear-gradient(#15d7da, #40329c,#7a0794);
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+  }
+  .hello{
+ 
+    margin-left: 100px;
+    background: -webkit-linear-gradient(rgb(18, 198, 93), #316b4d,#3c4250);
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  
+  }
+ 
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+   
+  
+  
+  
